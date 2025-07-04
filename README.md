@@ -6,6 +6,12 @@ A highly efficient, scalable microservice built in **.NET Core**, designed to **
 
 ---
 
+## 🙋‍♂️ About Me
+
+I specialize in backend engineering, API architecture, and cost-optimized solutions for enterprise clients. This project reflects my ability to **translate business problems into fast, scalable, and cost-efficient technical systems.**
+
+---
+
 ## 💡 Problem Solved
 
 The client’s systems made direct calls to Google Maps APIs for each user query. With scale, this led to:
@@ -132,3 +138,4 @@ Each endpoint returns **Google-like accuracy** but is **cost-optimized, cached, 
 - Exposed to centralized log sinks (e.g., Seq, ELK)
 
 ---
+
