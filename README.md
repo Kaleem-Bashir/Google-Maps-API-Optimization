@@ -96,9 +96,9 @@ Each endpoint returns **Google-like accuracy** but is **cost-optimized, cached, 
 
 ## 🏗️ Architecture Diagram (Simplified)
 
-            +------------+
-            |  Client UI |
-            +------------+
+            +------------------+
+            |  Client UI/ APIS |
+            +------------------+
                   |
                   v
           +----------------+
